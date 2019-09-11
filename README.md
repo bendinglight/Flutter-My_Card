@@ -1,6 +1,12 @@
 # my_card
 
-A new Flutter project.
+A Bussiness profile layout flutter app.
+
+Screenshots:
+
+![](images/sc_app.png)
+
+![](images/sc_recent.png)
 
 ## Getting Started
 
